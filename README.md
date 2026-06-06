@@ -32,19 +32,19 @@ python Sudoku.py
 ## Screenshots
 
 ### Empty Sudoku Board
-![Empty Sudoku](images/empty_sudoku.png)
+![Empty Sudoku](empty_sudoku.png)
 
 ### Generated Sudoku
-![Generated Sudoku](images/generated_sudoku.png)
+![Generated Sudoku](generated_sudoku.png)
 
 ### Solved Sudoku
-![Solved Sudoku](images/solved_sudoku.png)
+![Solved Sudoku](solved_sudoku.png)
 
 ### Difficulty Selection
-![Difficulty Selection](images/difficulty_selection.png)
+![Difficulty Selection](difficulty_selection.png)
 
 ### Algorithm Selection
-![Algorithm Selection](images/algorithm_selection.png)
+![Algorithm Selection](algorithm_selection.png)
 
 ## Learning Outcomes
 
