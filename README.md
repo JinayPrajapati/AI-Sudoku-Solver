@@ -32,7 +32,7 @@ python Sudoku.py
 ## Screenshots
 
 ### Empty Sudoku Board
-![Empty Sudoku](Empty Sudoku.png)
+![Empty Sudoku](empty_sudoku.png)
 
 ### Generated Sudoku
 ![Generated Sudoku](generated_sudoku.png)
